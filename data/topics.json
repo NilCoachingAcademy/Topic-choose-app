@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "اصول اخلاقی",
+        "chosen_by": null
+    },
+    {
+        "id": 2,
+        "title": "منشور اخلاقی ICF",
+        "chosen_by": null
+    },
+    {
+        "id": 3,
+        "title": "مدیریت اخلاقیات",
+        "chosen_by": null
+    },
+    {
+        "id": 4,
+        "title": "مدیریت مراجع",
+        "chosen_by": null
+    },
+    {
+        "id": 5,
+        "title": "ارزش ها و ماموریت زندگی",
+        "chosen_by": null
+    },
+    {
+        "id": 6,
+        "title": "کفایت",
+        "chosen_by": null
+    },
+    {
+        "id": 7,
+        "title": "تکنیک ها و ابزارهای کوچینگ",
+        "chosen_by": null
+    },
+    {
+        "id": 8,
+        "title": "ایجاد وجه تمایز و متافور و تمثیل",
+        "chosen_by": null
+    },
+    {
+        "id": 9,
+        "title": "برانگیختن آگاهی",
+        "chosen_by": null
+    },
+    {
+        "id": 10,
+        "title": "سکوت، مکث، ضرباهنگ",
+        "chosen_by": null
+    },
+    {
+        "id": 11,
+        "title": "آیکیدو",
+        "chosen_by": null
+    },
+    {
+        "id": 12,
+        "title": "تحقیق و تحقق",
+        "chosen_by": null
+    },
+    {
+        "id": 13,
+        "title": "حقیقت ها",
+        "chosen_by": null
+    },
+    {
+        "id": 14,
+        "title": "مدل ها و روندها",
+        "chosen_by": null
+    },
+    {
+        "id": 15,
+        "title": "مشاهده",
+        "chosen_by": null
+    },
+    {
+        "id": 16,
+        "title": "تعهد پنهان",
+        "chosen_by": null
+    },
+    {
+        "id": 17,
+        "title": "زمینه و بستر",
+        "chosen_by": null
+    },
+    {
+        "id": 18,
+        "title": "باورها",
+        "chosen_by": null
+    },
+    {
+        "id": 19,
+        "title": "قرارداد و ولکام پکت",
+        "chosen_by": null
+    },
+    {
+        "id": 20,
+        "title": "عمل یا حرکت موثر",
+        "chosen_by": null
+    },
+    {
+        "id": 21,
+        "title": "احساس و نیاز ۱",
+        "chosen_by": "سمیه تبیانی"
+    },
+    {
+        "id": 22,
+        "title": "احساس و نیاز ۲",
+        "chosen_by": "سمیه تبیانی"
+    },
+    {
+        "id": 23,
+        "title": "احساس و نیاز ۳",
+        "chosen_by": "سمیه تبیانی"
+    },
+    {
+        "id": 24,
+        "title": "اقدام یک پارچه",
+        "chosen_by": null
+    },
+    {
+        "id": 25,
+        "title": "شهود",
+        "chosen_by": null
+    },
+    {
+        "id": 26,
+        "title": "محرمانگی",
+        "chosen_by": null
+    },
+    {
+        "id": 27,
+        "title": "سیستم پایش",
+        "chosen_by": "علی آزاد"
+    },
+    {
+        "id": 28,
+        "title": "خود ۱ و ۲",
+        "chosen_by": null
+    },
+    {
+        "id": 29,
+        "title": "دیدگاه ها",
+        "chosen_by": null
+    },
+    {
+        "id": 30,
+        "title": "ابراز",
+        "chosen_by": null
+    },
+    {
+        "id": 31,
+        "title": "تبدیل گلایه به تعهد",
+        "chosen_by": null
+    },
+    {
+        "id": 32,
+        "title": "سوگواری و تجلیل",
+        "chosen_by": null
+    },
+    {
+        "id": 33,
+        "title": "همدلی",
+        "chosen_by": null
+    },
+    {
+        "id": 34,
+        "title": "اعتماد و امنیت",
+        "chosen_by": null
+    },
+    {
+        "id": 35,
+        "title": "ترغیب",
+        "chosen_by": null
+    },
+    {
+        "id": 36,
+        "title": "جشن",
+        "chosen_by": null
+    },
+    {
+        "id": 37,
+        "title": "اعتماد به نفس",
+        "chosen_by": null
+    },
+    {
+        "id": 38,
+        "title": "تقاضا و درخواست",
+        "chosen_by": null
+    },
+    {
+        "id": 39,
+        "title": "بازخورد موثر",
+        "chosen_by": null
+    },
+    {
+        "id": 40,
+        "title": "گفت و گوی قدرتمند",
+        "chosen_by": null
+    },
+    {
+        "id": 41,
+        "title": "کهن الگو",
+        "chosen_by": null
+    },
+    {
+        "id": 42,
+        "title": "دیسک",
+        "chosen_by": null
+    },
+    {
+        "id": 43,
+        "title": "کوچینگ تحول آفرین",
+        "chosen_by": null
+    },
+    {
+        "id": 44,
+        "title": "مدیریت مراجع",
+        "chosen_by": null
+    },
+    {
+        "id": 45,
+        "title": "رویکردها",
+        "chosen_by": "الهام شکیبافر"
+    },
+    {
+        "id": 46,
+        "title": "ارجاع",
+        "chosen_by": null
+    },
+    {
+        "id": 47,
+        "title": "ساختار مراجع",
+        "chosen_by": null
+    },
+    {
+        "id": 48,
+        "title": "اهداف",
+        "chosen_by": null
+    }
+]
