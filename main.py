@@ -106,6 +106,27 @@ def admin():
     participants = load_json(PARTICIPANTS_FILE)
     return render_template('admin.html', topics=topics, participants=participants)
 
+@app.route('/admin/reset/<name>')
+def reset_selection(name):
+    topics = load_json(TOPICS_FILE)
+    participants = load_json(PARTICIPANTS_FILE)
+
+    person = next((p for p in participants if p['name'] == name), None)
+    if not person:
+        return f"<h3>شرکت‌کننده‌ای به نام {name} پیدا نشد.</h3>"
+
+    # آزاد کردن سرفصل‌هایی که این فرد انتخاب کرده
+    for topic in topics:
+        if topic.get("chosen_by") == name:
+            topic["chosen_by"] = None
+
+    # پاک کردن انتخاب‌های این فرد
+    person["selected"] = []
+
+    save_json(TOPICS_FILE, topics)
+    save_json(PARTICIPANTS_FILE, participants)
+
+    return f"<h3>انتخاب‌های {name} با موفقیت پاک شدند ✅</h3>"
 
 # ---------- اجرای برنامه ----------
 if __name__ == '__main__':
